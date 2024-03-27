@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">Aspiring frontend developer from Poland, eager to learn and passionate about creating engaging web experiences with code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navid9696&label=Profile%20views&color=0e75b6&style=flat" alt="navid9696" /> </p>
 
 - 📫 How to reach me **dawidbrzeczek18@gmail.com**
 - ✌️ In addition to coding, I enjoy 🎮playing video games, 🖥️computer hardware, ⛩️watching anime, ⛰️hiking in the mountains, 🛼skating, ⛸️ice skating, 🏂snowboarding, 🎵listening to music and 🧑‍💻exploring the latest advancements in technology.
