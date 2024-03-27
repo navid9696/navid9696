@@ -12,7 +12,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,gulp,,nextjs,react,tailwind,materialui,mongodb,nodejs,git,vscode)](https://skillicons.dev)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navid9696&show_icons=true&locale=en&layout=compact" alt="navid9696" /></p>
 
