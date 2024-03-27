@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">Aspiring frontend developer from Poland, eager to learn and passionate about creating engaging web experiences with code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navid9696&label=Profile%20views&color=0e75b6&style=flat" alt="navid9696" /> </p>
 
