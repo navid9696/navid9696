@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me **dawidbrzeczek18@gmail.com**
-- ✌️ In addition to coding, I enjoy 🎮playing video games, 🖥️computer hardware, ⛩️watching anime, ⛰️hiking in the mountains, 🛼skating, ⛸️ice skating, 🏂snowboarding, 🎵listening to music and 🧑‍💻exploring the latest advancements in technology.
+- ✌️ In addition to coding, I enjoy 🎮playing video games, 🖥️computer hardware, ⛩️watching anime, ⛰️trekking, 🛼skating, ⛸️ice skating, 🏂snowboarding, 🎵listening to music and 🧑‍💻exploring the latest advancements in technology.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
