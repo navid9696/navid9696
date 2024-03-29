@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codewars.com/users/navid9696" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" alt="navid9696" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/dawid-brz%C4%99czek" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/rdp6fcqdcvqqcqn3jz72" alt="navid9696" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
