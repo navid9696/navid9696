@@ -20,7 +20,7 @@
 - https://www.linkedin.com/in/dawid-brzeczek/  <a href="https://linkedin.com/in/dawid-brz%C4%99czek" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/rdp6fcqdcvqqcqn3jz72" alt="navid9696" height="30" width="30" /></a>
 
 
-✌️ In addition to coding, I enjoy 🎮playing video games, 🖥️computer hardware, ⛩️watching anime, ⛰️trekking, 🛼skating, ⛸️ice skating, 🏂snowboarding, 🎵listening to music, 🔭astronomy and 🧑‍💻exploring the latest advancements in technology.
+✌️ In addition to coding, I enjoy 🎮playing video games, 🖥️computer hardware, ⛩️watching anime, ⛰️trekking, 🛼skating, ⛸️ice skating, 🏂snowboarding, 🎵listening to music and 🧑‍💻exploring the latest advancements in technology.
 
 
 
