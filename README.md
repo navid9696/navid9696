@@ -7,9 +7,12 @@
 
 ## 🔧 What I Focus On
 
-- Full-stack applications (Next.js, MongoDB)
-- Real-time features (Supabase)
-- Clean code and scalable structure
+- Building full-stack applications using Next.js, React, and MongoDB  
+- Implementing authentication systems and user flows  
+- Creating interactive UIs with attention to detail and good UX  
+- Working with APIs and basic backend integration  
+- Exploring simple real-time features using Supabase  
+- Writing clean, readable code and improving project structure  
 
 ---
 
