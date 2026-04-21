@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">Motivated frontend developer from Poland, eager to learn and passionate about creating engaging web experiences with code</h3>
+<h3 align="center">Frontend developer from Poland, focused on creating engaging web applications with strong attention to detail and a tendency to deeply analyze problems to deliver high-quality solutions.</h3>
 
 
 - 📫 How to reach me **dawidbrzeczek18@gmail.com**
